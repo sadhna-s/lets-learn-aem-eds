@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p48457-e1275402.adobeaemcloud.com/bin/franklin.delivery/sadhna-s/lets-learn-eds/main"
+    url: "https://author-p48457-e1275402.adobeaemcloud.com/bin/franklin.delivery/sadhna-s/lets-learn-aem-eds/main"
     type: "markup"
     suffix: ".html"
