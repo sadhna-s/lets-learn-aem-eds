@@ -1,8 +1,11 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/lets-learn-eds/:/",
+    "/content/lets-learn-eds/configuration:/.helix/config.json",
+    "/content/lets-learn-eds/placeholders:/placeholders.json"
+   
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/lets-learn-eds/"
   ]
 }
